@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ajay Bala
-- 👀 I’m interested in verb like codINg gamIng learnIng
+- 👀 I’m interested in verb like coding gamIng learnIng
 - 🌱 I’m currently working on developing Website.
 
 <!---
