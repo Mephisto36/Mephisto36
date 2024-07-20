@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ajay Bala
 - 👀 learnIng coding gamIng 
-- 🌱 I’m current
 
 <!---
 Ajayrx/Ajayrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
