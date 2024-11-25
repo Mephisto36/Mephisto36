@@ -1,5 +1,5 @@
 - 👋 Ajay Bala 
-- 👀 learnIng » Coding » GamIng 
+- 👀 learnIng » Coding » Gaming 
 - ✨ Sherdil Mc 
 <!---
 Ajayrx/Ajayrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
