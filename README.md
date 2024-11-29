@@ -35,7 +35,7 @@ I’m an aspiring software developer with a knack for solving problems and build
 ### 🖼️ **Projects**
 - 🎮 **Minecraft Server Development**  
   *Developed mods and plugins to create immersive and exciting gameplay experiences.*  
-  <img src="https://drive.google.com/file/d/1izFxjNT9G69kdG2BbJi_01O4kf7CPJHo/view?usp=drive_link/600x200?text=Minecraft+Server+Development" alt="Minecraft Project" />
+  <img src="https://imgur.com/Hesc2WH/600x200?text=Minecraft+Server+Development" alt="Minecraft Project" />
 
 - 💻 **Online C Compiler** (In Progress)  
   *Creating an online C compiler for coding on mobile devices with ease.*  
