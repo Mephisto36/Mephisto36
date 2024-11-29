@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm <Your Name></h1>
-<h3 align="center">A Passionate BTech CSE Student and Programmer</h3>
+<h1 align="center">Hi 👋, I'm Ajay Bala</h1>
+<h3 align="center">Aspiring Software Developer | Creative Problem Solver</h3>
 
 ---
 
 ### 🧑‍💻 **About Me**
-- 🌱 **I’m currently learning**: C Programming, Data Structures, and Algorithms  
-- 🎮 **Experience**: Over 1 year running and coding for a Minecraft SMP server  
-- 👨‍💻 **Proficiency**: Java, Python, C Programming  
-- ✨ **Goal**: Build an online C compiler for mobile coding convenience  
-- 🎓 **Semester**: 1st Semester, BTech CSE  
+Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, and **C programming**.  
+I’m an aspiring software developer with a knack for solving problems and building creative solutions.
+
+- 🌟 **Experience**: Over a year as a Minecraft Server Developer  
+- 🎮 **Minecraft Modding**: Designed, developed, and maintained mods and plugins to enhance gameplay  
+- ✨ **Goal**: Continuously learn, grow, and contribute to innovative projects  
+- 💡 **Dream**: Shape the future with code, whether it’s crafting engaging gaming experiences or building scalable software!
 
 ---
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your_username>&theme=radical" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajayrx&theme=radical" alt="GitHub Streak" height="180px"/>
 </p>
 
 ---
@@ -31,24 +33,28 @@
 ---
 
 ### 🖼️ **Projects**
-- 🛠️ **No Manchurian Protest Campaign**  
-  *Protesting against poorly prepared hostel Manchurian by creating impactful visuals.*  
-  ![No Manchurian](https://via.placeholder.com/600x200?text=Your+Protest+Image) <!-- Replace with actual image URL -->
+- 🎮 **Minecraft Server Development**  
+  *Developed mods and plugins to create immersive and exciting gameplay experiences.*  
+  <img src="[https://via.placeholder.com](https://drive.google.com/file/d/1izFxjNT9G69kdG2BbJi_01O4kf7CPJHo/view?usp=drive_link)/600x200?text=Minecraft+Server+Development" alt="Minecraft Project" />
 
 - 💻 **Online C Compiler** (In Progress)  
-  *Building an online C compiler for mobile devices to simplify coding on the go.*  
+  *Creating an online C compiler for coding on mobile devices with ease.*  
+
+- 🎨 **No Manchurian Protest Campaign**  
+  *Created visuals to protest against poorly prepared hostel food.*  
+  ![No Manchurian](https://via.placeholder.com/600x200?text=No+Manchurian+Protest)
 
 ---
 
 ### 📬 **Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/<your_username>/" target="_blank">
+  <a href="https://www.linkedin.com/in/ajay-bala-849841230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:<your_email>" target="_blank">
+  <a href="mailto:ajay0i0know@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/<your_username>" target="_blank">
+  <a href="https://github.com/Ajayrx" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -56,8 +62,6 @@
 ---
 
 ### 🎨 **Fun Fact**
-I love solving matrix problems using Gaussian elimination and exploring creative projects like Minecraft SMP!
+Minecraft modding has not only fueled my creativity but also deepened my understanding of coding principles and software development.
 
----
-
-<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
+<h3 align="center">✨ Let’s connect and create something amazing together! ✨</h3>
