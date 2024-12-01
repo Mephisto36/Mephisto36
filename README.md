@@ -40,7 +40,7 @@ I’m an aspiring software developer with a knack for solving problems and build
   *Creating an online C compiler for coding on mobile devices with ease.*  
 
 - 🎨 **Online Leave Application for college** (In Progress)  
-  *Creating an online form to submit leave via website where leave appliction sent to proctor via whatsApp.*  
+  *Creating an online form to submit leave application via website where leave appliction sent to proctor via whatsApp.*  
 
 ---
 
