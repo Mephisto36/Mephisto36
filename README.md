@@ -39,8 +39,8 @@ I’m an aspiring software developer with a knack for solving problems and build
 - 💻 **Online C Compiler** (In Progress)  
   *Creating an online C compiler for coding on mobile devices with ease.*  
 
-- 🎨 **No Manchurian Protest Campaign**  
-  *Created visuals to protest against poorly prepared hostel food.*  
+- 🎨 **Online Leave Application for college** (In Progress)  
+  *Creating an online form to submit leave via website where leave appliction sent to proctor via whatsApp.*  
 
 ---
 
