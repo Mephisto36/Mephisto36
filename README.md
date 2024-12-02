@@ -16,8 +16,10 @@ I’m an aspiring software developer with a knack for solving problems and build
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ajayrx&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&show_icons=true&theme=radical&token=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" alt="GitHub Stats" height="180px"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajayrx&theme=radical&token=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" alt="GitHub Streak" height="180px"/>
+  
 </p>
 
 ---
