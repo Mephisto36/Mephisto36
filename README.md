@@ -10,7 +10,7 @@ I’m an aspiring software developer with a knack for solving problems and build
 - 🌟 **Experience**: Over a year as a Minecraft Server Developer  
 - 🎮 **Minecraft Modding**: Designed, developed, and maintained mods and plugins to enhance gameplay  
 - ✨ **Goal**: Continuously learn, grow, and contribute to innovative projects  
-- 💡 **Dream**: Shape the future with code, whether it’s crafting engaging gaming experiences or building scalable software!
+- 💡 **Dream**: Shape the future with code, whether it’s crafting engaging gaming experiences or building scalable software!  
 
 ---
 
@@ -36,11 +36,11 @@ I’m an aspiring software developer with a knack for solving problems and build
 - 🎮 **Minecraft Server Development**  
   *Developed mods and plugins to create immersive and exciting gameplay experiences.*  
 
-- 💻 **Online C Compiler** (In Progress)  
+- 💻 **Online C Compiler** *(In Progress)*  
   *Creating an online C compiler for coding on mobile devices with ease.*  
 
-- 🎨 **Online Leave Application for college** (In Progress)  
-  *Creating an online form to submit leave application via website where leave appliction sent to proctor via whatsApp.*  
+- 📝 **Online Leave Application for College** *(In Progress)*  
+  *Developing a website where students can submit leave applications that are automatically sent to the proctor via WhatsApp.*  
 
 ---
 
