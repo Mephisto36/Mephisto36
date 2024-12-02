@@ -17,7 +17,7 @@ I’m an aspiring software developer with a knack for solving problems and build
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajayrx&theme=radical" alt="GitHub Streak" height="180px"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ajayrx&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
