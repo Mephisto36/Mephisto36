@@ -40,7 +40,7 @@ I’m an aspiring software developer with a knack for solving problems and build
 
 - 💻 **Safe Sphere ❤️ ** *(Live )*  
   *Creating an website that Emphasizing a secure digital environment.*
-  *[Creating an website that Emphasizing a secure digital environment.](https://ajayrx.github.io/cyber-safety/)*
+  *[SafeShere Website](https://ajayrx.github.io/cyber-safety/)*
   
 - 💻 **Online C Compiler** *(In Progress)*  
   *Creating an online C compiler for coding on mobile devices with ease.*  
