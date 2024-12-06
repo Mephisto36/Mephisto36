@@ -38,8 +38,9 @@ I’m an aspiring software developer with a knack for solving problems and build
 - 🎮 **Minecraft Server Development**  
   *Developed mods and plugins to create immersive and exciting gameplay experiences.*  
 
-- 💻 **Safe Sphere ❤️ ** *(In Progress)*  
+- 💻 **Safe Sphere ❤️ ** *(Live )*  
   *Creating an website that Emphasizing a secure digital environment.*
+  *[Creating an website that Emphasizing a secure digital environment.](https://ajayrx.github.io/cyber-safety/)*
   
 - 💻 **Online C Compiler** *(In Progress)*  
   *Creating an online C compiler for coding on mobile devices with ease.*  
