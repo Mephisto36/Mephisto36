@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Bala</h1>
+<h1 align="center">Hi 👋, I'm Debraj Naik</h1>
 <h3 align="center">Aspiring Software Developer | Creative Problem Solver</h3>
 
 ---
